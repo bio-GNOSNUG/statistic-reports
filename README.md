@@ -1,7 +1,7 @@
 # statistic-reports
 Example statistical reports developed during MSc Data Science and Artificial Intelligence studies
 
-## Texas bridge condition
+## Analysis of Texas bridges
 Demonstrating exploratory analysis and use of regression modelling to look at the effect of predictor variables on a target variable.
 
 Data sourced from the US National Bridge Inspection, collated by the Federal Highways Agency (FHWA) and can be found in the [National Bridge Inspection](https://www.fhwa.dot.gov/bridge/nbi/ascii.cfm) section of the FHWA's web site. For the purpose of this report, we focus on the state of Texas, USA, on a subset of columns of interest to our analysis. Predominantly, the columns below:
@@ -17,7 +17,7 @@ Data sourced from the US National Bridge Inspection, collated by the Federal Hig
 |Superstr_rating| The condition of the bridge superstructure                | ordinal |
 |Substr_rating  | The condition of the bridge substructure (foundations)    | ordinal |
 
-## London property prices
+## Exploring changes in UK property price
 
 Using data and statistical analysis to understand more about changes in property prices across regions of the UK.
 
